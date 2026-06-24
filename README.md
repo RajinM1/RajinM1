@@ -15,22 +15,16 @@
 
 ## 👋 About Me
 
+| | |
+|---|---|
+| 🎓 **Role** | Data Science Undergraduate @ SLIIT |
+| 📍 **Location** | Jaffna, Sri Lanka |
+| 🧠 **Focus Areas** | Machine Learning · Computer Vision · Full-Stack Dev · Data Pipelines |
+| 💼 **Currently Working At** | Saai Medicals Group — IT & Operations |
+| 📱 **Published Apps** | POS System · PayLedger Pro · CV Resume Maker Pro |
+| ⚡ **Fun Fact** | I turn messy retail data into AI-powered decisions |
 
-class Rajin:
-    def __init__(self):
-        self.role = "Data Science Undergraduate @ SLIIT"
-        self.location = "Jaffna, Sri Lanka"
-        self.focus = ["Machine Learning", "Computer Vision", "Full-Stack Dev", "Data Pipelines"]
-        self.currently_working_at = "Saai Medicals Group — IT & Operations"
-        self.published_apps = ["POS System", "PayLedger Pro", "CV Resume Maker Pro"]
-        self.fun_fact = "I turn messy retail data into AI-powered decisions"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great!")
-
-me = Rajin()
-me.say_hi()
-
+> 💬 *"Thanks for stopping by — let's build something great!"*
 
 - 🎓 Year 2 BSc (Hons) in IT — **Data Science** specialization at **SLIIT** (2024–2028)
 - 💼 IT Technician / Manager at **Saai Medicals Group**, managing infrastructure & data across multiple sites
