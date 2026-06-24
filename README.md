@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-```python
+
 class Rajin:
     def __init__(self):
         self.role = "Data Science Undergraduate @ SLIIT"
@@ -30,7 +30,7 @@ class Rajin:
 
 me = Rajin()
 me.say_hi()
-```
+
 
 - 🎓 Year 2 BSc (Hons) in IT — **Data Science** specialization at **SLIIT** (2024–2028)
 - 💼 IT Technician / Manager at **Saai Medicals Group**, managing infrastructure & data across multiple sites
